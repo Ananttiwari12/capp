@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "server": "^1.0.41",
+    "socket.io": "^4.8.1",
+    "workspace": "^0.0.1-preview.2"
+  }
+}
